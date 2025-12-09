@@ -1,0 +1,35 @@
+
+/*Esto es el scritp CSS*/
+
+body{
+	background-color: #d9d9d9;
+	font-family: sans-serif;
+}
+
+pre{
+	background-color: black;
+	color: white;	
+}
+
+.buttonG {
+  display: inline-block;
+  padding: 13px 24px;
+  font-size: 16px;
+  font-family: comic sans ms;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: #black;
+  background-color: white;
+  border: none;
+  width: 100px
+}
+
+.buttonG {
+	border: 2px solid black;
+}
+
+.buttonG:hover{
+	background-color: black;
+	color: white;
+}
