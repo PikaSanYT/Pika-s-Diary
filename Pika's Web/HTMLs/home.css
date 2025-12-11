@@ -1,0 +1,40 @@
+
+body{
+	background-color: white;
+}
+
+img.minilogos{
+	width: 40px;
+	height: 40px;
+	clear: both;
+	float: left;
+	margin-right: 10px;
+}
+
+.apartados{
+	border: brown 4px double;
+	padding: 5px;
+	float: left;
+	margin: 10px;
+}
+
+img.apartados:hover{
+	border: blue 4px solid;
+}
+
+fieldset.caja1{
+	background-color: #ffe175;
+	border: brown 5px double;
+	margin: 10px;
+	padding: 20px;
+}
+
+legend{
+	font-weight: bold;
+	border: brown 5px double;
+	background: lightgray;
+}
+
+div.titulo{
+	background-color: white;
+}
